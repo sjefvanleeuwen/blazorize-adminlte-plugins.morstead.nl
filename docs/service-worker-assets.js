@@ -13,7 +13,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-EKOCG673vvwG8iUECNNQd\/UlLMd\/g4FTuR2tMkKo6bQ=",
+      "hash": "sha256-zCiyMLjmeuuz35XFJClKd3bmPl4GStWR7p5yGnDmJJk=",
       "url": "index.html"
     },
     {
@@ -2477,7 +2477,7 @@
       "url": "_content\/Blazorized.AdminLte\/js\/interop.js"
     },
     {
-      "hash": "sha256-l+Epen9QPNFVLNOgiVIN0Y9oybXah+S5NC3EbO1DQgw=",
+      "hash": "sha256-+EZmt\/TalPfl2z76VSDpcXK14NmKl5lKYhgVSmspxsU=",
       "url": "_content\/Blazorized.AdminLte.Plugins.Shared\/css\/site.css"
     },
     {
@@ -2777,7 +2777,7 @@
       "url": "_framework\/Blazorized.AdminLte.Plugins.Shared.dll"
     },
     {
-      "hash": "sha256-temrK4NB4IvAjbr+JRX7BO8g4FQ01qrLa21d+c16exc=",
+      "hash": "sha256-rkWSEvFM8Zw3CJTDiRj9uPTJX6ym5DFSYe80pxj3FNc=",
       "url": "_framework\/Blazorized.AdminLte.Plugins.Wasm.dll"
     },
     {
@@ -2933,7 +2933,7 @@
       "url": "_framework\/de\/BlazorTable.resources.dll"
     },
     {
-      "hash": "sha256-b0etn1lO7qnJkw7Ptsf8Q8cFywpNHHhZXcPNpFUEY3M=",
+      "hash": "sha256-IH5lm+5Hj91NMxZ0mhtZv3TA6SemoO7VbqMRcmRV3Gg=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -2941,5 +2941,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "+KvbXZqv"
+  "version": "cBbi2hDc"
 };
